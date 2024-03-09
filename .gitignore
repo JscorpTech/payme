@@ -1,0 +1,6 @@
+dist
+JscorpTechPayme.egg-info
+venv
+.idea
+.vscode/
+.pypirc
