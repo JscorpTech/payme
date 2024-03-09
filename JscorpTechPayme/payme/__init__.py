@@ -1,4 +1,4 @@
-from .methods_subscribe_api import PayComResponse
+from JscorpTechPayme.methods_subscribe_api import PayComResponse
 
 
 class Paycom(PayComResponse):
