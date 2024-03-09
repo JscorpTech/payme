@@ -4,3 +4,6 @@ venv
 .idea
 .vscode/
 .pypirc
+db.sqlite3
+manage.py
+config
