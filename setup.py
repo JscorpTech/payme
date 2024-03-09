@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="JscorpTechPayme",
-    version="1.0.1",
+    version="1.0.2",
     author="A'zamov Samandar",
     author_email="JscorpTech@gmail.com",
     description="JscorpTech Payme",
